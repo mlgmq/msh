@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>msh</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>python35.zip</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/python3.5.1/python35.zip</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
