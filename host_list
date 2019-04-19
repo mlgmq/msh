@@ -1,6 +1,0 @@
-192.168.200.101   root     password
-100.100.100.101   root     password
-192.168.200.101   grid     grid
-100.100.100.101   oracle   oracle
-100.100.100.101   oracle   mlg
-100.100.111.101   oracle   mlg
