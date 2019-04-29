@@ -1,6 +1,6 @@
 #opertion      local_path                              remote_path
 #opertion (up,down)
 #local_path replare  ($HOST)=host  ($CURRDIR)
-up     $CURRDIR\msh\scripts\aaa.sh                      /tmp/aaa.sh
-up     $CURRDIR\msh\scripts\bbb.sh                      /tmp/bbb.sh
-down   $CURRDIR\$OUTPUT_PATH\$HOST_bash_profile        /home/oracle/.bash_profile
+up     $CURRDIR\scripts\aaa.sh                      /tmp/aaa.sh
+up     $CURRDIR\scripts\bbb.sh                      /tmp/bbb.sh
+down   $OUTPUT_PATH\$HOST_bash_profile              /home/oracle/.bash_profile

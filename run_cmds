@@ -1,0 +1,7 @@
+id
+pwd
+dir
+cd /tmp
+ls -ltr
+echo "mlg"
+chown oracle.oinstall /tmp/aaa.sh
